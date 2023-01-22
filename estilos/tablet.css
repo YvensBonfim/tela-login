@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+  background-image: linear-gradient(#0058C7, rgb(159, 185, 236));
+}
+
+
+ main> div#login{
+  width: 80vw;
+  height: 350px;
+  
+
+}
+div#login > div#img{
+  float: left;
+  width: 40%;
+  height: 100%;
+}
+div#login > div#form{
+  float: right;
+  width: 60%;
+}
